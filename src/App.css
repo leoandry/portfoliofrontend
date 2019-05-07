@@ -1,0 +1,15 @@
+.header-color {
+  background: #494949;
+  background: -webkit-linear-gradient(to right, #494949, #494949);
+  background: linear-gradient(to right, #494949, #494949);
+}
+.body{
+  /*background-color: #F8F8FF*/
+  background-image: url("../src/images/bg2.jpg");
+  background-size: 700px 700px;
+}
+.header-footer {
+  background: #494949;
+  background: -webkit-linear-gradient(to right, #494949, #494949);
+  background: linear-gradient(to right, #494949, #494949);
+}
